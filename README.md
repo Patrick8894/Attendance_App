@@ -1,6 +1,6 @@
 # Attendance App
 
-This project is an attendance management application. It allows users to submit appeals and view the status of their appeals.
+This project is an attendance management application that allows users to submit attendance appeals and track their status. It serves as a simplified version of HERE, a production-level system used by thousands of students and staff. The goal of this project is to showcase the programming skills required to contribute to the team responsible for maintaining and developing HERE.
 
 ## Prerequisites
 
